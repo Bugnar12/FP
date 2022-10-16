@@ -4,7 +4,7 @@ Created on Dec 6, 2016
 @author: Arthur
 """
 import timeit
-from texttable import Texttable
+from texttable
 
 '''
     1. Here we have two implementation for the Fibonacci sequence
